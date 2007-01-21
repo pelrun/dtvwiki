@@ -1,0 +1,46 @@
+'''Due to excessive spam and few actual news concerning the C64DTV, editing this wiki has been disabled since January 2012. Please send contributions [[Special:Emailuser/1570|by mail]].'''
+== C64DTV Versions ==
+* [[DTV Version 1]] - NTSC/ROM joystick sold by Mammoth Games in pyramid shaped packaging. Includes World Karate Championship and other games.
+* [[DTV Version 2/3]] - PAL/FlashROM joystick sold by Toylobster in hexagonal packaging. Includes Alleykat and other games.
+** Including [[DTV_Version_2/3#FAQ|Frequently Asked Questions]].
+* [[Hummer]] game console sold by Radio Shack
+
+== DTV Mods ==
+* [[DTV Mods]] - modding the C64DTV - a list of 'typical' DTV mods
+* [[Peripherals and Add-ons]] - useful additional C64 (and DTV) hardware
+
+== Programming the DTV ==
+* [[DTV Specific Programming]] - documentation and list of programming tools and compilers
+* [[DTV Utilities]] - list of other (non-programming) tools such as flashing tools
+* [[General C64 Info & Programs]]
+
+== DTV HOWTOs ==
+* Getting started with a brand new DTV: see [[DTV Mods]]
+* [[Flash the DTV Rom]] / [[Flash_the_DTV_Rom#Flash_new_programs|Flash new programs or games]] section
+* [[Transferring programs to the DTV]]
+* [[Fixing Games for the DTV]] - a programmer's guide
+** [[DTV Patched Games]] - list of games fixed for DTV
+** [[Userport Patched Games]] - list of games fixed for Hummer
+* [[GEOS for the DTV]]
+
+== Other Useful DTV Hacking Stuff ==
+* [[Part Numbers and Suppliers]] - Mouser/Digikey order numbers
+* [[Commodore 64 Software Sites]]
+
+== External Links ==
+* Read the C64 [http://www.hobby.nl/~commodore-gg/CIP/Pagina/INFO-DTV-GB.htm DTV story], from the C-one to the ASIC version!
+* Listen to Jeri Ellsworth Lectures about the C64 & C-One at Stanford University on [http://video.google.com/videoplay?docid=-1053309060448851979&hl=en-CA Google Video]
+
+Explicit permission to copy stuff (with credits) to this wiki...
+* [http://galaxy22.dyndns.org/dtv/ Commodore DTV Hacking by David Murray]
+** [http://galaxy22.dyndns.org/dtv/hackvideo/ DTV Hacking Videos]
+* [http://www.kahlin.net/daniel/dtv/ Daniel Kahlin's C64DTV Site]
+* [http://www.geocities.com/dtvhacking/ Mr. Latch-up's DTV Advice Column]
+Ask before copying...
+* [http://symlink.dk/nostalgia/dtv/ Spaceman Spiff's DTV Hacking]
+* [http://jledger.proboards19.com/index.cgi?board=dtvhacking DTV Hacking on PETSCII Forum]
+* [http://home.earthlink.net/~dgdtv/dtv/data/hummer_faq.html Hummer FAQ]
+* [http://www.hobby.nl/~commodore-gg/CIP/Pagina/INFO-DTV-GB.htm The C64 - DTV Story]
+* [http://home.wanadoo.nl/richard.lagendijk/Pagina/COMP-C64-DTV-Hacking.htm CIP C64 DTV Hacking]
+* [http://pouet.net/prodlist.php?platform%5B%5D=C64+DTV Pouet DTV technical demos]
+* [http://alg5.ifrance.com/dtv/index.htm Chips DTV Hacks] (french)

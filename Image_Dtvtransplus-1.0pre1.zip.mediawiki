@@ -1,0 +1,1 @@
+Including Win32 binary (built using mingw by tlr)

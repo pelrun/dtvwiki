@@ -1,0 +1,6 @@
+== VICEplus: VICE plus DTV support ==
+[[Image:X64dtv hello dtv world.jpg|left|thumb|200px]]
+[[Image:X64dtv newtons cradle.jpg|right|thumb|200px]]
+VICEplus is a fork of [http://www.viceteam.org/ VICE]. Its most important extension currently is C64DTV support.
+
+Its project homepage is now at '''http://viceplus.sourceforge.net/'''.

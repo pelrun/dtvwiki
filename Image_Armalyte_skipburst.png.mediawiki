@@ -1,0 +1,1 @@
+Armalyte (skip+burst mode) with border color indicating raster irq activity.

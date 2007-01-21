@@ -1,0 +1,1 @@
+Connection points for keyboard connection on the PAL DTV v3 PCB (component side)
