@@ -1,1 +1,0 @@
-From [http://www.pyrofersprojects.com/15413.php Pyrofer's Projects], to allow the DTV to read/write to an SD card.

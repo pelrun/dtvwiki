@@ -1,1 +1,0 @@
-See [http://galaxy22.dyndns.org/dtv/common/flash-main/index.html Flashing the Kernal and Filesystem on Hummer & DTV2] (To eventually be copied from there)

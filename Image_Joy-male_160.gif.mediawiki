@@ -1,1 +1,0 @@
-DB-9 connector pinout. From http://galaxy22.dyndns.org/dtv/common/connectors/index.html

@@ -1,1 +1,0 @@
-The definitive reference on DTV internals, written by Jeri Ellsworth herself.

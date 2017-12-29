@@ -1,1 +1,0 @@
-DTVMON/DTVBOOT running under x64dtv patch 62 on Windows XP.

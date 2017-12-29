@@ -1,8 +1,0 @@
-See chart on [http://galaxy22.dyndns.org/dtv/index.html David Murray's Site]
-
-Some hints :
-* There is a big steering wheel in the middle of your DTV ? You've got a [[Hummer|Hummer / DTV Revision 3]] !
-* You've got a joystick in yout hands ? You've got a DTV Revision 1, 2 or 3 !
-** On the joystick, the brand logo is a [http://www.mammothtoys.com Mammoth] ? You've got a [[Joystick_v1|DTV Revision 1]] !
-** On the joystick, the brand logo is a [http://www.toylobster.com Toylobster] ? You've got a [[Joystick_v2/v3|DTV Revision 2 or 3]] !
-*** To know if you've got a DTV Revision 2 or 3, check the batch number [[Joystick_v2/v3#Revisions|timestamp]].

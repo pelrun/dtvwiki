@@ -1,1 +1,0 @@
-Patch (revision 12) for DTV support in VICE 1.21

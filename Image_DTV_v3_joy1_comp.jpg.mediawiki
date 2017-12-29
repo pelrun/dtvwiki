@@ -1,1 +1,0 @@
-Joystick port 1 connections (component side)

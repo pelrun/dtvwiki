@@ -1,1 +1,0 @@
-Joystick connector with userport assignments

@@ -1,2 +1,0 @@
-Connection points for peripherals and busses on the C64 DTV circuit board.
-(by Madmodder)

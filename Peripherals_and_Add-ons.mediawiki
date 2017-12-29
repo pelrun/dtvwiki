@@ -1,5 +1,0 @@
-*[[DTVTrans]] data transfer cable (Joy/User port to PC parallel port)
-**[http://www.lallafa.de/blog/ dtv2ser] - the same for a PC serial or USB port
-**[http://www.nightfallcrew.com/?p=1430 dtv2serMacGui] - Simple oSX GUI for dtv2sertrans from Lallafa
-*[http://www.c64-wiki.com/index.php/MMC2IEC MMC2IEC] and [http://www.c64-wiki.com/index.php/1541-III 1541-III] - PCB with schematics to allow the C64(DTV) to read/write to an SD card. 
-*[http://sta.c64.org/xcables.html X1541 Series Interface Cables] - The X1541 series of cables allow a connection between the DTV IEC port and a PC parallel port for data transfer.  Several styles of cables exist.  Buy one or make your own!
